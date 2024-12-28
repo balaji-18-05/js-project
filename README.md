@@ -3,4 +3,5 @@
 output:
   ![image](https://github.com/user-attachments/assets/37dc4740-d007-4c22-95ed-a70e3e6c1128)
   cart:
-    ![image](https://github.com/user-attachments/assets/7894195a-554c-4872-b637-ca6df7a567ed)
+    ![image](https://github.com/user-attachments/assets/573ae072-b0f8-46f0-b677-480ad3e94357)
+
