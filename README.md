@@ -7,4 +7,3 @@ cart:
     ![image](https://github.com/user-attachments/assets/6f2be4ee-7bbe-4c98-9d1b-6d93fbe7a0d0)
 
 
-<img width="1247" height="1065" alt="timetable-software" src="https://github.com/user-attachments/assets/4f54624e-8b54-48c3-9d06-adf2cbf447b5" />
